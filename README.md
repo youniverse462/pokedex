@@ -1,1 +1,1 @@
-I´ve build a Pokedex which pulls Information using a API
+I´ve build an API for my very first Pokedex using streamlit :)
